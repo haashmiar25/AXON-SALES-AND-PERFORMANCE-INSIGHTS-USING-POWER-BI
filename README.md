@@ -1,9 +1,13 @@
 
 AXON SALES AND PERFORMANCE INSIGHTS
-Problem Statement
+
+
+PROBLEM STATEMENT:
 A small company, “Axon”, which is a retailer selling classic cars, is facing issues in managing and analyzing their sales data. The sales team is struggling to make sense of the data and they do not have a centralized system to manage and analyze the data. The management is unable to get accurate and up-to-date sales reports, which is affecting the decision-making process.
-Aim
+
+AIM:
 The goal of the project is to design and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively.
+
 Database Description
 The dataset contains data from 06-01-2003 to 31-05-2005.
 •	Customers – Holds basic information about the customers.
